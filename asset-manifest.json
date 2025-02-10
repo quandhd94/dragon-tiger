@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dragon-tiger/static/css/main.a30c1ff7.css",
+    "main.js": "/dragon-tiger/static/js/main.d866c200.js",
+    "index.html": "/dragon-tiger/index.html",
+    "main.a30c1ff7.css.map": "/dragon-tiger/static/css/main.a30c1ff7.css.map",
+    "main.d866c200.js.map": "/dragon-tiger/static/js/main.d866c200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a30c1ff7.css",
+    "static/js/main.d866c200.js"
+  ]
+}
