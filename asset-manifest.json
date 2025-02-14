@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dragon-tiger/static/css/main.a30c1ff7.css",
-    "main.js": "/dragon-tiger/static/js/main.d866c200.js",
+    "main.css": "/dragon-tiger/static/css/main.e78fbe50.css",
+    "main.js": "/dragon-tiger/static/js/main.d5f5d5eb.js",
     "index.html": "/dragon-tiger/index.html",
-    "main.a30c1ff7.css.map": "/dragon-tiger/static/css/main.a30c1ff7.css.map",
-    "main.d866c200.js.map": "/dragon-tiger/static/js/main.d866c200.js.map"
+    "main.e78fbe50.css.map": "/dragon-tiger/static/css/main.e78fbe50.css.map",
+    "main.d5f5d5eb.js.map": "/dragon-tiger/static/js/main.d5f5d5eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.a30c1ff7.css",
-    "static/js/main.d866c200.js"
+    "static/css/main.e78fbe50.css",
+    "static/js/main.d5f5d5eb.js"
   ]
 }
